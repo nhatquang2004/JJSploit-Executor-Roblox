@@ -15,6 +15,7 @@ To get started with JJSploit Executor, follow these simple steps:
 
 
 
+
 ![JJSploit Executor Preview](/assets/maanvilro.gif)
 
 ## Table of Contents
